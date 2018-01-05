@@ -1,5 +1,5 @@
 # Injector
-A reverse proxy that does replace the first occurrence of a search string in the response's content by a replacement string.
+A reverse proxy that replaces the first occurrence of a search string in the response's content by a replacement string.
 It is meant for rapid prototyping by adding a new feature to an existing web page without modifying the page's source.
 
 ## Build container
